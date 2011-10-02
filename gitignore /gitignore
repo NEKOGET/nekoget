@@ -1,0 +1,22 @@
+# MAC
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# project files
+*.swp
+.classpath
+.git
+.gitignore
+.project
+.settings
+.svn
+
+#svn
+.svn
+
+#Dreamweaver
+_notes
+dwsync
+
