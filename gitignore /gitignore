@@ -20,3 +20,6 @@ Thumbs.db
 _notes
 dwsync
 
+#IntelliJ
+*.iml
+.idea
